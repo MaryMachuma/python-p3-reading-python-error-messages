@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-print(hello_world)
+hello_world = "Hello, World" # Define the variable first
+print(hello_world) # Now its okay to print
